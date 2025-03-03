@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Karla:ital,wght@0,200..800;1,200..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Sevillana&family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    /* text-align: center; */
+}
+body{
+    text-align: center;
+    margin-top: 30px;
+     background: #1F2937;
+     font-family: karla;
+;
+
+}
+#h1{
+    margin-left:-107px ;
+    color: white;
+}
+#h1-2{
+    color: #4ADF86
+
+}
+p{
+    color: #D5D4D8;
+
+}
+hr{
+ 
+  width: 320px;
+  max-width: 100%;
+    margin: 30px auto;
+    border: 1px solid #2F3E53
+ 
+}
+button{
+    align-items: center;
+    margin-top: 40px;
+    
+     display: block;
+    margin: 40px auto;
+    position: relative;
+    left: -80px;
+    padding: 10px 12px 10px 12px;
+    border-radius: 5px;
+   background: #10B981;
+  color: white;
+  border: none;
+}
+#container{
+  display: flex;
+    justify-content: center;
+     gap: 20px;
+}
+#password-1{
+  color: #55F991;
+  margin-left: 10px;
+  background: #273549;
+     padding: 10px 30px 10px 30px;
+     border-radius: 5px;
+  
+
+}
+#password-2{
+ color: #55F991;
+ background: #273549;
+  padding: 10px 30px 10px 30px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+
